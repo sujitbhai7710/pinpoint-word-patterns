@@ -1,0 +1,96 @@
+{
+  "title": "LinkedIn Pinpoint Word Pattern Database",
+  "source": "https://pinpointanswertoday.online/",
+  "common_suffixes": {
+    "-tion": {
+      "frequency": "very_high",
+      "examples": [
+        "innovation",
+        "collaboration",
+        "delegation"
+      ]
+    },
+    "-ment": {
+      "frequency": "high",
+      "examples": [
+        "management",
+        "development",
+        "investment"
+      ]
+    },
+    "-ance": {
+      "frequency": "medium",
+      "examples": [
+        "performance",
+        "governance",
+        "compliance"
+      ]
+    },
+    "-ship": {
+      "frequency": "medium",
+      "examples": [
+        "leadership",
+        "mentorship",
+        "partnership"
+      ]
+    }
+  },
+  "common_prefixes": {
+    "re-": {
+      "frequency": "high",
+      "examples": [
+        "revenue",
+        "recruitment",
+        "retention"
+      ]
+    },
+    "pro-": {
+      "frequency": "medium",
+      "examples": [
+        "professional",
+        "productivity",
+        "promotion"
+      ]
+    },
+    "co-": {
+      "frequency": "medium",
+      "examples": [
+        "collaborate",
+        "corporate",
+        "compliance"
+      ]
+    }
+  },
+  "double_letter_patterns": {
+    "ee": {
+      "frequency": "common",
+      "examples": [
+        "feedback",
+        "steering",
+        "meeting"
+      ]
+    },
+    "ll": {
+      "frequency": "common",
+      "examples": [
+        "collaboration",
+        "alliance",
+        "challenge"
+      ]
+    },
+    "ss": {
+      "frequency": "common",
+      "examples": [
+        "assessment",
+        "business",
+        "professional"
+      ]
+    }
+  },
+  "resources": {
+    "daily_answers": "https://pinpointanswertoday.online/",
+    "pattern_tips": "https://pinpointanswertoday.online/",
+    "word_database": "https://pinpointanswertoday.online/"
+  },
+  "credits": "Pattern database from https://pinpointanswertoday.online/"
+}
